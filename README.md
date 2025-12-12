@@ -5,6 +5,7 @@ An AI data analysis Agent built using the Agno Agent framework and Openai's gpt-
 
 
 Features
+
 📤 File Upload Support:
 
 Upload CSV and Excel files
@@ -18,12 +19,14 @@ Get instant answers about your data
 No SQL knowledge required
 
 🔍 Advanced Analysis:
+
 Perform complex data aggregations
 Filter and sort data
 Generate statistical summaries
 Create data visualizations
 
 🎯 Interactive UI:
+
 User-friendly Streamlit interface
 Real-time query processing
 Clear result presentation
@@ -31,6 +34,7 @@ How to Run
 Setup Environment
 
 # Install dependencies
+
 pip install -r requirements.txt
 Configure API Keys
 

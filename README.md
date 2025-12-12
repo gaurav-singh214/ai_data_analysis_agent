@@ -24,10 +24,6 @@ Clear result presentation
 How to Run
 Setup Environment
 
-# Clone the repository
-git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
-cd awesome-llm-apps/starter_ai_agents/ai_data_analysis_agent
-
 # Install dependencies
 pip install -r requirements.txt
 Configure API Keys
